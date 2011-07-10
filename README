@@ -1,0 +1,5 @@
+A simple carousel implemented using a modified jQuery carousel library. Use it like this:
+
+  [simple_carousel id="screenshots" container="screenshots" img="/static/image1.png|/static/image2.png|/static/image3.png|/static/image4.png|/static/image5.png" width="275" height="532" class="alignleft" item="screenshots"]
+
+You can include as many images as you wish, and set the width/height. Each image will have a CSS class set to the `item` attribute, and the `class` attribute will also be added to each image's CSS class.
