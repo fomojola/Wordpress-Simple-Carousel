@@ -6,7 +6,7 @@ A simple carousel implemented using a modified jQuery carousel library. Supports
 
 Like this:
 
-   [simple_carousel id="screenshots" container="screenshots" img="/static/image1.png|/static/image2.png|/static/image3.png|/static/image4.png|/static/image5.png" width="275" height="532" class="alignleft" item="screenshots"]
+    [simple_carousel id="screenshots" container="screenshots" img="/static/image1.png|/static/image2.png|/static/image3.png|/static/image4.png|/static/image5.png" width="275" height="532" class="alignleft" item="screenshots"]
 
 ### Attributes
 - *id*: the id to be used for the carousel container <div>.
